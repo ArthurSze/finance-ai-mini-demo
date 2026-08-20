@@ -1,0 +1,18 @@
+# Credentials and local configuration
+.env
+.env.*
+!.env.example
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# WorkSwarm and editor-local state
+.jiuwenswarm/
+.agent_history/
+.vscode/
+.idea/
+
+# Generated Python files, if later tutorials use Python
+__pycache__/
+*.py[cod]
