@@ -28,13 +28,13 @@ The project begins with a written plan in T1. Later tutorials can use the same r
 
 ## T1 Output
 
-During T1, WorkSwarm creates:
+During T1, JiuWenSwarm creates:
 
 ```text
 artifacts/t1/project-plan.md
 ```
 
-Students review the file and then save it with Git. WorkSwarm must not commit or push the change during T1.
+Students review the file and then save it with Git. JiuWenSwarm must not commit or push the change during T1.
 
 ## Data Notice
 

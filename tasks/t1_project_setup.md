@@ -22,4 +22,4 @@ The Markdown document must contain these six sections:
 - No existing file is modified.
 - No unrelated file is created.
 - No API key, GitHub token, password, or other credential appears in the output.
-- WorkSwarm does not run a Git command that changes files, commits, branches, or remotes.
+- JiuWenSwarm does not run a Git command that changes files, commits, branches, or remotes.
